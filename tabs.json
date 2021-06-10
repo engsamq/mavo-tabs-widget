@@ -3,7 +3,7 @@
 	"tab": [
 		{
 			"title": {
-				"text": "Research"
+				"text": "بحث"
 			},
 			"open": true,
 			"content": {
@@ -16,7 +16,7 @@
 		},
 		{
 			"title": {
-				"text": "Planning"
+				"text": "تخطيط"
 			},
 			"content": {
 				"headline": "Planning",
@@ -29,7 +29,7 @@
 		},
 		{
 			"title": {
-				"text": "Production"
+				"text": "انتاج"
 			},
 			"content": {
 				"headline": "Production",
@@ -42,7 +42,7 @@
 		},
 		{
 			"title": {
-				"text": "Testing"
+				"text": "فحص"
 			},
 			"content": {
 				"headline": "Testing",
